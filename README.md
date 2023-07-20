@@ -1,6 +1,6 @@
 # Projeto X-Men
 
-Este é um mini projeto do DevemDobro que se trata de uma página com os X-Men, utilizando HTML, CSS e JavaScript.
+Este é um mini projeto do Dev em Dobro que se trata de uma página com os X-Men, utilizando HTML, CSS e JavaScript.
 
 ## Acesse o site
 
